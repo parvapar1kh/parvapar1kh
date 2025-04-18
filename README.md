@@ -22,7 +22,7 @@ I’m currently pursuing opportunities in cybersecurity, particularly in system 
 
 - Linux system configuration and terminal tools  
 - Python and C programming  
-- Firewall configuration (iptables, UFW)  
+- Firewall configuration (IP tables, UFW)  
 - Networking and basic protocol security  
 - AWS fundamentals (in progress)  
 - Command-line environments (Windows CMD, Bash)  
