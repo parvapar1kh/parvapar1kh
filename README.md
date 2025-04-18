@@ -42,7 +42,7 @@ I’m currently pursuing opportunities in cybersecurity, particularly in system 
 ### Secure VPN Server with Raspberry Pi
 
 Created a personal WireGuard VPN hosted on a Raspberry Pi. Configured DNS, NAT rules, port forwarding, and firewall settings using Linux tools. Project focused on building secure remote access and custom network routing.  
-[GitHub Repository](https://github.com/yourusername/raspberrypi-vpn)
+[GitHub Repository](https://github.com/parvapar1kh/Raspberry-Pi-VPN-Project-)
 
 ---
 
