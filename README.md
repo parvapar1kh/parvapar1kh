@@ -1,61 +1,59 @@
-# 👋 Parva Parikh
+# Parva Parikh
 
-📍 Chantilly, VA | 📞 703-400-2781 | ✉️ pprkh222@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/parvaparikh17)
-
----
-
-## 🎯 Objective
-
-I’m a rising junior at George Mason University studying Cybersecurity Engineering. I’m currently seeking opportunities to grow in the cybersecurity space, particularly through hands-on, technical roles. My strengths lie in problem solving, consistent learning, and adapting quickly to new environments.
+**Phone:** 703-400-2781  
+**Email:** pprkh222@gmail.com  
+**LinkedIn:** [linkedin.com/in/parvaparikh17](https://www.linkedin.com/in/parvaparikh17)
 
 ---
 
-## 🛠️ Technical Skills
+## About Me
 
-- Linux System Configuration
-- Python & C Programming
-- Firewall Setup (iptables, UFW)
-- Network Security Concepts
-- Cloud Computing (AWS – in progress)
-- Windows CMD, Bash
-- IoT & Machine Learning (academic exposure)
+I'm a rising junior at George Mason University majoring in Cybersecurity Engineering. I’ve worked on hands-on projects in cybersecurity, networking, and cloud environments. I’m motivated, dependable, and always looking to deepen my technical skills.
 
 ---
 
-## 📜 Certifications
+## Objective
 
-- **CompTIA Security+**  
-- **AWS Cloud Practitioner** (In Progress – Expected July 2025)
-
----
-
-## 🧪 Projects
-
-### 🔐 [Secure VPN Server with Raspberry Pi](https://github.com/yourusername/raspberrypi-vpn)
-Set up a fully secure WireGuard VPN on a Raspberry Pi for private computing and remote access. This included hardware assembly, DNS configuration, port forwarding, firewall setup, and extensive Linux command-line usage.
-
-### 📄 Machine Learning & Encryption Research (2025)
-Wrote a professional research proposal comparing ML-powered encryption against traditional cryptographic methods. Conducted a literature review and analyzed the benefits and limitations of each approach.
+I’m currently pursuing opportunities in cybersecurity, particularly in system security, encryption, and network defense. My goal is to contribute meaningfully to a technical team and grow as a cybersecurity professional through real-world experience.
 
 ---
 
-## 💼 Experience
+## Skills
 
-### Wegmans Food Markets – *Customer Assistant*  
-**June 2023 – May 2025**  
-- Delivered exceptional customer service in bakery and front-end departments  
-- Adapted quickly across various teams and handled diverse customer needs
-
-### AMT Consulting – *College Intern*  
-- Helped secure client financial data across local and cloud environments  
-- Performed availability checks to ensure access and continuity
+- Linux system configuration and terminal tools  
+- Python and C programming  
+- Firewall configuration (iptables, UFW)  
+- Networking and basic protocol security  
+- AWS fundamentals (in progress)  
+- Command-line environments (Windows CMD, Bash)  
+- Exposure to IoT and machine learning
 
 ---
 
-## 🎓 Education
+## Certifications
+
+- CompTIA Security+  
+- AWS Cloud Practitioner (Expected July 2025)
+
+---
+
+## Projects
+
+### Secure VPN Server with Raspberry Pi
+
+Created a personal WireGuard VPN hosted on a Raspberry Pi. Configured DNS, NAT rules, port forwarding, and firewall settings using Linux tools. Project focused on building secure remote access and custom network routing.  
+[GitHub Repository](https://github.com/yourusername/raspberrypi-vpn)
+
+---
+
+### Machine Learning & Encryption Research (2025)
+
+Wrote a formal research proposal comparing traditional encryption to ML-enhanced encryption methods. Conducted a thorough review of academic sources and proposed future directions for applying machine learning in cryptography.
+
+---
+
+## Education
 
 **George Mason University**  
-*B.S. in Cybersecurity Engineering*  
+Bachelor of Science in Cybersecurity Engineering  
 2023 – 2027
-
