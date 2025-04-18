@@ -20,11 +20,11 @@ I’m currently pursuing opportunities in cybersecurity, particularly in system 
 
 ## Skills
 
-- Linux system configuration and terminal tools  
+-** Linux system configuration and terminal tools  **
 - Python and C programming  
 - Firewall configuration (IP tables, UFW)  
 - Networking and basic protocol security  
-- AWS fundamentals (in progress)  
+- **AWS Cloud (in progress)  **
 - Command-line environments (Windows CMD, Bash)  
 - Exposure to IoT and machine learning
 
